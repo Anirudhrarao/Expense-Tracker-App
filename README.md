@@ -2,8 +2,6 @@
 
 A simple yet powerful **Personal Budget Tracker** built using **Streamlit** and **Plotly**, allowing users to track and visualize their expenses with ease. Upload your CSV files, add new expenses, and analyze your spending habits through interactive charts and visualizations.
 
-![Budget Tracker Banner](https://placekitten.com/1200/300)
-
 ---
 
 ## 🚀 Features
@@ -28,21 +26,22 @@ A simple yet powerful **Personal Budget Tracker** built using **Streamlit** and 
 ## 📸 Screenshots
 
 ### Upload CSV File
-![Upload CSV Screenshot]()
+![Upload CSV Screenshot](https://github.com/Anirudhrarao/Expense-Tracker-App/blob/main/demo/demo1.png)
 
-### Visualize Expenses by Category
-![Expense Breakdown Screenshot]()
+### Uploaded CSV
+![Expense Breakdown Screenshot](https://github.com/Anirudhrarao/Expense-Tracker-App/blob/main/demo/demo2.png)
 
 ### Expense Breakdown by Payment Method
-![Payment Method Pie Chart]()
-
+#### Visualize Expenses by Category
+![Payment Method Bar Chart](https://github.com/Anirudhrarao/Expense-Tracker-App/blob/main/demo/demo3.png)
+![Payment Method Pie Chart](https://github.com/Anirudhrarao/Expense-Tracker-App/blob/main/demo/demo4.png)
 ---
 
 ## 📝 How to Use
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/personal-budget-tracker.git
+git clone https://github.com/Anirudhrarao/Expense-Tracker-App.git
 cd personal-budget-tracker
 ```
 
