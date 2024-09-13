@@ -1,0 +1,14 @@
+Date,Expense Description,Category,Amount,Payment Method,Notes
+2024-09-01,Grocery Shopping,Food,50.75,Credit Card,Whole Foods
+2024-09-02,Rent,Housing,1200.0,Bank Transfer,September Rent
+2024-09-03,Movie Tickets,Leisure,25.0,Cash,Weekend movie
+2024-09-05,Gas,Transport,40.5,Debit Card,Fuel for the car
+2024-09-06,Gym Membership,Health,30.0,Credit Card,Monthly membership
+2024-09-07,Coffee,Food,5.25,Cash,Starbucks
+2024-09-08,Phone Bill,Utilities,70.0,Online Payment,Mobile carrier
+2024-09-10,Clothing Purchase,Shopping,150.0,Debit Card,New shoes and jacket
+2024-09-11,Lunch,Food,12.5,Debit Card,Subway
+2024-09-12,Electricity Bill,Utilities,80.0,Online Payment,Monthly bill
+2024-09-13,Bus Ticket,Transport,3.5,Cash,Local bus
+2024-09-14,Concert Ticket,Leisure,60.0,Credit Card,Weekend event
+2024-09-15,Laptop Repair,Other,250.0,Bank Transfer,Screen replacement
